@@ -1,0 +1,13 @@
+section {
+    align-content: center;
+}
+
+img{
+    width: 150px;
+}
+
+div{
+    padding-left: 50px;
+    margin: auto;
+    border: solid 0,1px;
+}
