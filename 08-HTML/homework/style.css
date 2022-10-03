@@ -1,5 +1,26 @@
+
+* {
+       -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+body{
+    align-content: center;
+    background-image: url(img/fondo.jpg);
+    background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+    
+}
+h1{
+    color: blueviolet;
+}
+
 .divClass {
     color: brown;
+    align-content: center;
+    text-align: center;
+    border: solid;
    }
    #spanId{
     font-size: 18px;
@@ -7,10 +28,11 @@
     color:blue;        
    }
    
-   #imgid{
+   img{
     width: 400px;  
    }
    #thirdDiv {
+    margin: auto;
     width: 500;
     height: 600;
     border: solid;
